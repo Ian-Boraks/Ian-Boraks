@@ -58,9 +58,9 @@
                 }
             </style>
 
-            <div class="container">
-                <h3> Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.</h3>
-                <p>- Danny Hillis</p>
+            <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+                <h3> Scientists discover the world that exists; Engineers create the world that never was. </h3>
+                <p>- Theodore von Kármán (1881-1963)</p>
             </div>
         </div>
     </foreignObject>
